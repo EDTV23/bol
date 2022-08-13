@@ -1,0 +1,27 @@
+#EXTM3U.
+#EXTINF: -1 ,UNITEL LA PAZ
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSeaGBKOHfuQGtKis5gBCljMQybMgsyYsKWVP-wqgnV9)/dm/3/x7vsfua/d/live-3.m3u8
+#EXTINF: -1 ,UNITEL SANTA CRUZ
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3q8FFLLDX5wbvBazEi1Hxyj4X0vaM5_WQfzep6nLM8k)/dm/3/x7wzxiw/s/live-3.m3u8
+#EXTINF: -1 ,UNITEL COCHABAMBA
+https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUIKL_GbFEWd_K1ZALKbW9vMBdfIRJG4OuQi_Tb55IlTQ)/dm/3/x7y922d/d/live-3.m3u8
+#EXTINF: -1 ,RED UNO LA PAZ
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlh5_JDuhY3rOuNE2JGDAWEAg12CtSCNLwMyHa-3Qkjw)/dm/3/x825whp/d/live-2.m3u8
+#EXTINF: -1 ,RED UNO SANTA CRUZ
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlh5_JDuhY3rOuNE2JGDAWEAg12CtSCNLwMyHa-3Qkjw)/dm/3/x825whp/d/live-2.m3u8
+#EXTINF: -1 ,RED UNO COCHABAMBA
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlh5_JDuhY3rOuNE2JGDAWEAg12CtSCNLwMyHa-3Qkjw)/dm/3/x825whp/d/live-2.m3u8
+#EXTINF: -1 ,ATB LA PAZ
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOuF9HcgWOIfVv9QB2psqltqd0bH_Eg4Wb0xMvIYKanWZ)/dm/3/x84eirw/d/live-3.m3u8
+#EXTINF: -1 ,ATB COCHABAMBA
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7j0OAg5vMBicTruG6PQbLD88LJvj5oYrVtTyndnsRWn)/dm/3/x89sfvo/s/live-1.m3u8
+#EXTINF: -1 ,ATB SANTA CRUZ
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOgJPPF5aoZvqRF5xhLBQDKtwn_FEYCksQDWITuXHy7zB)/dm/3/x84t82c/s/live-3.m3u8
+#EXTINF: -1 ,PAT
+https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
+#EXTINF: -1 ,CADENA A
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1647283255.m3u8
+#EXTINF: -1 ,BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF: -1 ,RTP TV
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w192393776.m3u8
